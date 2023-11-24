@@ -26,8 +26,4 @@ Amid the ones and zeros, my heart beats for open source. I contribute not just c
 - 📫 Send your thoughts to pilaniaanand@gmail.com.
 - 💬 Catch my whispers on [Mastodon](https://phpc.social/@AnandPilania).
 
-## The Chronicles of GitHub
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandPilania&show_icons=true&theme=radical)
-
 Together, let's turn bits into stories, and data into dreams. The pixels may be virtual, but the magic we create is oh-so-real.
