@@ -15,6 +15,8 @@ I'm Anand Pilania, a digital dreamer and a code poet. Nestled at the crossroads 
 - Flutter: My wand to conjure cross-platform spells of wonder.
 - Go: An alchemist's toolkit for transforming ideas into code gold.
 - Ruby: Weaving words of elegance into the fabric of code.
+- Python: In the captivating realm of AI and machine learning, Python is my poetic expression. It's the language where algorithms dance, and in their rhythm, I discover the symphony of possibilities conducted by the grace of LLM & RAG models. LangChain and LangSmith, my artistic companions, transcend the mundane execution of code. LangChain weaves intricate linguistic wonders, and LangSmith practices the alchemy of language manipulation. Together, they craft a narrative that speaks the eloquent language of technology, blending logic and emotion.
+- Node.js: Node.js takes center stage, orchestrating the server-side ballet in the world of JavaScript. Each line of code is a note, and Node.js dances to the rhythm, creating a harmonious symphony of seamless server-side interactions. It's not just about executing code; it's about conducting a dynamic conversation between data and responses.
 - React & Vue: Shaping raw visions into interactive, pixel-perfect tales.
 
 ## Unveiling My Humanity
