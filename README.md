@@ -1,6 +1,6 @@
 # Hey there, wonderful world! 🌟
 
-I'm Anand Pilania, a digital dreamer and a code poet. Nestled at the crossroads of Laravel elegance and Flutter's enchantment, I craft digital experiences that dance with the soul. With Go, Ruby, React, and Vue as my companions, I explore the vast canvas of technology.
+I'm Anand Pilania, a digital dreamer and a code poet. Nestled at the crossroads of Laravel elegance, Flutter's enchantment and Python's power, I craft digital experiences that dance with the soul. With Go, Ruby, Rust, React, and Vue as my companions, I explore the vast canvas of technology.
 
 ## A Peek into My Journey
 
