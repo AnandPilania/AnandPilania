@@ -5,7 +5,7 @@ I'm Anand Pilania, a digital dreamer and a code poet. Nestled at the crossroads 
 ## A Peek into My Journey
 
 - 🌱 Cultivating the art of creation, one keystroke at a time.
-- 💼 Crafting magic at NLSL (NIIT) as a Senior Software Engg.
+- 💼 Crafting magic at NIIT MTS as a Senior Tech Consultant.
 - 🎓 Graduated in Computer Science from SMU.
 - ⚡ Fun fact: My heart races when bugs turn into butterflies and glitches into symphonies.
 
